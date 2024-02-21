@@ -1,0 +1,33 @@
+#!/bin/bash
+backend="backend"
+echo $backend
+bootcamp= "
+Chapter 1: Setting Up Local Environment
+Chapter 2: CLI and Git Commands; Getting Started with GitHub
+2.1	Mastering the Terminal
+2.2	Git and GitHub
+Chapter 3: Basics of JavaScript
+3.1	Introduction to JavaScript
+3.2	Functions & Scopes
+Chapter 4: Advanced JavaScript
+4.1	Modern JS Features
+4.2	JavaScript OOP
+Chapter 5: Asynchronous JavaScript
+Chapter 6: Intro to Node.js
+Chapter 7: MongoDB Atlas, Advanced Querying & Query Projections
+7.1 	Intro to NoSQL Database
+7.2	Modeling Relationships
+7.3	Advanced Querying & Query Projections
+Chapter 8:  Server Setup, Schema (Models) and RESTful APIs (CRUD)
+8.1 	RESTful APIs and their significance
+8.2	MVC Components
+Chapter 9: Authentication
+Chapter 10: Database Relationships"
+echo  "enter your name\n"
+read name
+echo $name
+
+links='- https://www.notion.so/
+- https://obsidian.md/
+- https://joplinapp.org/'
+

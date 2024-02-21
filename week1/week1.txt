@@ -1,0 +1,11 @@
+graphic user interface (GUI);
+allows to interact with the computer with minimal clicks
+mouse driven
+
+Command line interface(CLI)
+pwd -> print working directory
+cd -> change directory
+ls -a -l -t 
+ls -t by sort by time
+touch 
+rm
