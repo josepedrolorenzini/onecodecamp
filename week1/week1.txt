@@ -9,3 +9,5 @@ ls -a -l -t
 ls -t by sort by time
 touch 
 rm
+ls -line
+pwd
